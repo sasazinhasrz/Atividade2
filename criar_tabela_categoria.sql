@@ -1,0 +1,4 @@
+CREATE TABLE categoria(
+id_categoria INT AUTO_INCREMENT PRIMARY KEY,
+nome_editora VARCHAR(255) UNIQUE NOT NULL
+);

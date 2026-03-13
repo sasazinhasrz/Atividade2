@@ -1,0 +1,4 @@
+CREATE TABLE editora(
+id_editora INT AUTO_INCREMENT PRIMARY KEY,
+nome_editora VARCHAR(255) UNIQUE NOT NULL
+);
